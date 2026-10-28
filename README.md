@@ -1,6 +1,6 @@
 <div align="center">
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★       .       
-　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.　　　　 　　 　　　　       　　
+　　　.   　　˚　　 　　*　　 　✦　　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　★　　　.　　. 　 ˚　.　　　　 　　✦　　　.　　. 　 ˚　.　　 　　　　       　　
 
 # Hi, I'm Leticija!
 
@@ -9,8 +9,8 @@ Building apps and designing interfaces is what I enjoy most, but I'm curious abo
 which is why I'm now diving deeper into data. I'm especially interested in projects where good design
 and data-driven ideas meet.
 
-˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.        
-　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.　　　　 　　 　　　　     　　
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★.        
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.　　　★　　　.　　. 　 ˚　.　　　　　 　　 　　　　     　　
 
 </div>
 
