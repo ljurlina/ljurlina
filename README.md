@@ -22,6 +22,6 @@ and data-driven ideas meet.
 
 ## Tech
 
-![Tech](https://skillicons.dev/icons?i=py,kotlin,java,c,cs,dart,flutter,html,css,js,django,figma,supabase,git&perline=7&theme=light)
+![Tech](https://skillicons.dev/icons?i=py,kotlin,java,c,cs,dart,flutter,html,css,js,django,figma,supabase,firebase,git&perline=5&theme=light)
 
-Also worked with: pandas
+Also worked with: pandas, scikit-learn, Jupyter, SQL
