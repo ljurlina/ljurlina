@@ -1,27 +1,26 @@
-# Hi, I'm Leticija 👋
+<div align="center">
+
+✦ ⋆ ˚｡ ⋆ ✦ ⋆ ˚｡ ⋆ ✦
+
+# Hi, I'm Leticija!
 
 Master's student of Computer Science (Data Science) at FERIT Osijek, Croatia.
-I enjoy building apps and web interfaces, from the first Figma sketch to a working product.
+Building apps and designing interfaces is what I enjoy most, but I'm curious about a lot of things,
+which is why I'm now diving deeper into data. I'm especially interested in projects where good design
+and data-driven ideas meet.
+
+✦ ⋆ ˚｡ ⋆ ✦ ⋆ ˚｡ ⋆ ✦
+
+</div>
 
 ## Projects
 
-- **[Smart Fashion Assistant](https://github.com/ljurlina/fashion_assistant)** – Flutter app that helps you decide whether a new clothing item is worth buying, by comparing it with your existing wardrobe using AI. Built as my undergraduate thesis.
+- **[Smart Fashion Assistant](https://github.com/ljurlina/fashion_assistant)** – Flutter app that helps reduce fast fashion waste. Scan an item before you buy it, and AI compares it with your wardrobe to flag duplicates and recommend whether to buy it. Built as my undergraduate thesis.
 - **[Growy](https://github.com/ljurlina/growy)** – Android app (Kotlin) for keeping track of plant watering, designed in Figma.
-- **[Hiža](https://github.com/ljurlina/hiza)** – Website built with HTML, CSS and JavaScript.
+- **[Hiža](https://github.com/ljurlina/hiza)** – Home decor website with an inspiration gallery and short interior design tips. Built with HTML, CSS and JavaScript.
 
 ## Tech
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Tech](https://skillicons.dev/icons?i=py,kotlin,java,c,cs,dart,flutter,html,css,js,django,figma,supabase,git&perline=7&theme=light)
 
-Also worked with: C, C#, pandas.
-
-## Contact
-
-📍 Osijek, Croatia · 📫 tvoj-email@example.com
+Also worked with: pandas
